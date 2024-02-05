@@ -1,4 +1,4 @@
-# Biking Retail Analytics Dashboard
+# Biking Retail Store Analytics Dashboard
 
 # Objective
 
