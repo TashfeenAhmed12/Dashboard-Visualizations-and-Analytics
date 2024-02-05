@@ -2,7 +2,7 @@
 
 # Objective
 
-The objective of this project is to develop a comprehensive and interactive sales and marketing dashboard using Power BI for Mountain Wheels Superstore. The dashboard aims to provide actionable insights into customer purchase behaviors, regional sales performance, and product quality feedback. It will assist in creating targeted marketing campaigns, strategizing territorial expansion, and reducing product returns by leveraging detailed data analytics
+The objective of this project is to develop a comprehensive and interactive sales and marketing dashboard using Power BI for Mountain Wheels Superstore. The dashboard aims to provide actionable insights into customer purchase behaviors, regional sales performance, and product quality feedback. It will assist in creating targeted marketing campaigns, strategizing territorial expansion, and reducing product returns by leveraging detailed data analytics.
 
 
 # Key Use Cases identified 
