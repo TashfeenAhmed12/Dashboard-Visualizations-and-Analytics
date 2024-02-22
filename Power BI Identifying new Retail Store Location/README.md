@@ -14,18 +14,18 @@ The Power BI dashboard is aimed at aiding 24Seven Retail Stores in identifying a
 
 **Sales Forecasting**: Advanced predictive models within the dashboard forecast future sales and customer growth, providing a data-driven projection to support strategic decision-making for store expansion
 
+![image](https://github.com/TashfeenAhmed12/Dashboard-Visualizations-and-Analytics/assets/76031323/48b33551-9a7e-4b40-8e88-69a634264b11)
+
+![image](https://github.com/TashfeenAhmed12/Dashboard-Visualizations-and-Analytics/assets/76031323/59bf3055-33e1-4d5d-86a8-1732625b4759)
+
+![image](https://github.com/TashfeenAhmed12/Dashboard-Visualizations-and-Analytics/assets/76031323/8a4279dc-1435-4edc-971e-30b366bbd24d)
 
 
-![image](https://github.com/TashfeenAhmed12/Dashboard-Visualizations-and-Analytics/assets/76031323/25ec255b-e0b6-419a-a4fe-dfd8b29fa853)
+![image](https://github.com/TashfeenAhmed12/Dashboard-Visualizations-and-Analytics/assets/76031323/6db6cbf2-44fb-45bc-8c3a-84fa2f1b9f0e)
 
-![image](https://github.com/TashfeenAhmed12/Dashboard-Visualizations-and-Analytics/assets/76031323/9810c6b9-1272-4745-9085-5b85b3ef41e9)
+![image](https://github.com/TashfeenAhmed12/Dashboard-Visualizations-and-Analytics/assets/76031323/aeff14b4-d812-40eb-a048-ca938740ec18)
 
-![image](https://github.com/TashfeenAhmed12/Dashboard-Visualizations-and-Analytics/assets/76031323/23756a14-abc3-445c-949c-7f90255abe0d)
-
-![image](https://github.com/TashfeenAhmed12/Dashboard-Visualizations-and-Analytics/assets/76031323/7c6096d7-8e40-4823-ae63-6eca0ff90865)
-
-![image](https://github.com/TashfeenAhmed12/Dashboard-Visualizations-and-Analytics/assets/76031323/5e1c45bb-7f77-4c23-ab9d-09bb3c2e999c)
-
+**Relationship Mapping**
 ![image](https://github.com/TashfeenAhmed12/Dashboard-Visualizations-and-Analytics/assets/76031323/60cb4904-4e14-4aa5-b6a4-5471a859de14)
 
 
